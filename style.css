@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    padding-top: 30px;
+}
+
+#reference {
+    display: block;
+    text-align: end;
+}
+
+#search {
+    text-align: center;
+}
+
+#taxon {
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+#searchs {
+    display: block;
+    margin: 0 auto;
+    margin-top: auto;
+}
+
+#searchResults {
+    max-height: 180px;
+    /* 6개 정도 보이는 높이 */
+    overflow-y: auto;
+    /* 넘치면 스크롤 */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: none;
+    border-radius: 8px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+#searchResults li {
+    padding: 8px 12px;
+    border-bottom: 1px solid #eee;
+}
+
+#searchResults li:hover {
+    background-color: #f0f0f0;
+}
