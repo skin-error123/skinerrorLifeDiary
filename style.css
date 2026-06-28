@@ -16,6 +16,13 @@ h1 {
     display: block;
     width: fit-content;
     margin: 0 auto;
+    margin-top: 150px;
+}
+
+#introduce {
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
     margin-top: 200px;
 }
 

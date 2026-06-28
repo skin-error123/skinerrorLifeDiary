@@ -90,12 +90,32 @@ fetch(`descriptions/${name}.json`)
     .then(response => response.json())
     .then(data => {
         document.getElementById("title").textContent = name;
-        document.getElementById("description").textContent = data.summary;
 
-        if (data.photo) {
-            document.getElementById("photo").src = data.photo;
-        }
-    })
-    .catch(() => {
-        document.getElementById("description").textContent = "아직 설명이 없어요";
+        const container = document.getElementById("main-content");
+        container.innerHTML = "";  // 비우기
+
+        data.sections.forEach(section => {
+            if (section.type === "text") {
+                const h3 = document.createElement("h3");
+                h3.textContent = section.title;
+
+                const p = document.createElement("p");
+                p.textContent = section.content;
+
+                container.appendChild(h3);
+                container.appendChild(p);
+            } else if (section.type === "image") {
+                const img = document.createElement("img");
+                img.src = section.src;
+                img.style.maxWidth = "100%";
+
+                const caption = document.createElement("p");
+                caption.textContent = section.caption || "";
+                caption.style.fontSize = "13px";
+                caption.style.color = "#888";
+
+                container.appendChild(img);
+                container.appendChild(caption);
+            }
+        });
     });
