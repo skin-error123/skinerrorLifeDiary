@@ -90,57 +90,12 @@ fetch(`descriptions/${name}.json`)
     .then(response => response.json())
     .then(data => {
         document.getElementById("title").textContent = name;
+        document.getElementById("description").textContent = data.summary;
 
-        const container = document.getElementById("main-content");
-        container.innerHTML = "";
-
-        data.sections.forEach(section => {
-            if (section.type === "text") {
-                if (section.title) {
-                    const h3 = document.createElement("h3");
-                    h3.textContent = section.title;
-                    container.appendChild(h3);
-                }
-
-                const p = document.createElement("p");
-                p.textContent = section.content;
-                container.appendChild(p);
-
-            } else if (section.type === "image") {
-                const img = document.createElement("img");
-                img.src = section.src;
-                img.style.maxWidth = "100%";
-                img.style.borderRadius = "8px";
-                container.appendChild(img);
-
-                if (section.caption) {
-                    const caption = document.createElement("p");
-                    caption.textContent = section.caption;
-                    caption.className = "image-caption";
-                    container.appendChild(caption);
-                }
-
-            } else if (section.type === "image-group") {
-                const group = document.createElement("div");
-                group.className = "image-group";
-
-                section.images.forEach(imgData => {
-                    const wrapper = document.createElement("div");
-                    wrapper.className = "image-wrapper";
-
-                    const img = document.createElement("img");
-                    img.src = imgData.src;
-
-                    const caption = document.createElement("p");
-                    caption.textContent = imgData.caption || "";
-                    caption.className = "image-caption";
-
-                    wrapper.appendChild(img);
-                    wrapper.appendChild(caption);
-                    group.appendChild(wrapper);
-                });
-
-                container.appendChild(group);
-            }
-        });
+        if (data.photo) {
+            document.getElementById("photo").src = data.photo;
+        }
+    })
+    .catch(() => {
+        document.getElementById("description").textContent = "아직 설명이 없어요";
     });
