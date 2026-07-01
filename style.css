@@ -16,13 +16,6 @@ h1 {
     display: block;
     width: fit-content;
     margin: 0 auto;
-    margin-top: 150px;
-}
-
-#introduce {
-    display: block;
-    width: fit-content;
-    margin: 0 auto;
     margin-top: 200px;
 }
 
@@ -53,26 +46,4 @@ h1 {
 
 #searchResults li:hover {
     background-color: #f0f0f0;
-}
-
-.image-group {
-    display: flex;
-    gap: 15px;
-    margin: 20px 0;
-}
-
-.image-wrapper {
-    flex: 1;
-}
-
-.image-wrapper img {
-    width: 100%;
-    border-radius: 8px;
-}
-
-.image-caption {
-    font-size: 13px;
-    color: #888;
-    text-align: center;
-    margin-top: 5px;
 }
