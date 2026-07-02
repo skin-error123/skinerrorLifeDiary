@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/산바퀴(Blattella nipponica).jpg",
+            "caption": "2026-05-31 오후 4:17 천안시 일봉산."
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "바퀴벌레.갈색이고 전흉배판에 두개의 두꺼운 검은 줄무늬가 있다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,산"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "전흉배판에 두개의 검은 줄무늬가 있고 바퀴(독일바퀴)와 매우 유사하지만 산에 서식해 산바퀴와 매우 유사하다."
+        }
+    ]
+}
