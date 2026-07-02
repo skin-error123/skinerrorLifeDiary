@@ -44,7 +44,7 @@ body {
     width: 400px;
     height: 400px;
     /* mini-tree 높이와 똑같이 */
-    object-fit: cover;
+    object-fit: contain;
     border-radius: 8px;
     margin: 0 0 20px 0;
 }
@@ -61,6 +61,10 @@ body {
 
 .image-wrapper img {
     width: 100%;
+    height: 300px;
+    /* 원하는 높이 */
+    object-fit: contain;
+    /* 이미지 전체 모습 유지 */
     border-radius: 8px;
 }
 
@@ -69,13 +73,4 @@ body {
     color: #888;
     text-align: center;
     margin-top: 5px;
-}
-
-#main-content img {
-    width: 100%;
-    max-width: 600px;
-    height: 350px;
-    object-fit: cover;
-    border-radius: 8px;
-    display: block;
 }
