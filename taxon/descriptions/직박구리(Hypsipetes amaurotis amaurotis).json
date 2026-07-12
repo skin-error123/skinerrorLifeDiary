@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/직박구리(Hypsipetes amaurotis amaurotis).jpg",
+            "caption": "2026-05-23 오후 2:17 천안시 일봉산."
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "새다.날개,뺨,발,눈을 제외하면 전체적으로 회색 계열의 색이다.뺨과 발은 붉은색이며 뺨은 주황색,발은 빨간색이 강하다,날개에는 갈색깃이 있고 아랫배에도 있다.배와 얼굴 앞쪽은 하얗다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,산,도시"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "붉은 뺨 등등의 모습이 직박구리와 매우 유사하다."
+        }
+    ]
+}

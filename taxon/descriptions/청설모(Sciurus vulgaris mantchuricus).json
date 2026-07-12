@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/청설모(Sciurus vulgaris mantchuricus).jpg",
+            "caption": "2026-05-23 오후 2:21 천안시 일봉산."
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "털이 갈색이고 귀에 서있는 털이 있다.꼬리에는 바깥으로 퍼져나가는 방향으로 털이 나있고 발톱은 뿌리는 검은색이고 끝은 하얗다.발가락은 연주황색이다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,산"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "대한민국에 서식하고 털의 색,전체적인 형태가 청설모와 유사하다."
+        }
+    ]
+}

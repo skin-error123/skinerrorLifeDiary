@@ -308,7 +308,7 @@ const taxa = [
     { id: "청설모족(Sciurini)", parents: ["청설모아과(Sciurinae)"] },
     { id: "청설모속(Sciurus)", parents: ["청설모족(Sciurini)"] },
     { id: "청설모종(Sciurus vulgaris)", parents: ["청설모속(Sciurus)"] },
-    { id: "청설모(Sciurus vulgaris mantchuricus", parents: ["청설모종(Sciurus vulgaris)"] },
+    { id: "청설모(Sciurus vulgaris mantchuricus)", parents: ["청설모종(Sciurus vulgaris)"] },
     { id: "Holomycota", parents: ["후편모생물(Opisthokonta)"] },
     { id: "균계(Fungi)", parents: ["Holomycota"] },
     { id: "Amastigomycota", parents: ["균계(Fungi)"] },
