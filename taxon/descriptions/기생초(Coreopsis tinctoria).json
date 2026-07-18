@@ -1,0 +1,25 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/기생초(Coreopsis tinctoria).jpg",
+            "caption": "2026-05-31 오후 5:08 충청남도 천안시 천안천.",
+            "comment": "화관 모양을 알아보기"
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "두상화서.꽃잎이 노랗고 안쪽은 갈색,개수는 8개다.타원형이고 끝에가 3갈래로 갈라진다.암술이 노랗다.꽃턱은 갈색이다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,근처에 강이 있는 땅"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "꽃잎의 색과 형태가 기생초와 매우 유사하다."
+        }
+    ]
+}
