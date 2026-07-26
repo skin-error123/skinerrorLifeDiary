@@ -52,8 +52,7 @@ const cy = cytoscape({
 });
 
 // 노드 이동할 때마다 좌표 저장
-
-cy.on("dragfree", "node", function (e) {
+/*cy.on("dragfree", "node", function (e) {
     const node = e.target;
     const positions = {};
 
@@ -73,7 +72,7 @@ if (saved) {
             n.position(positions[n.id()]);
         }
     });
-}
+}*/
 
 let selectedBg = null;
 

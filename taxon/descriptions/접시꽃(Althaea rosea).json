@@ -1,0 +1,32 @@
+{
+    "sections": [
+        {
+            "type": "image-group",
+            "images": [
+                {
+                    "src": "images/접시꽃(Althaea rosea)1.jpg",
+                    "caption": "2026-06-21 오전 11:24 충청남도 천안시 천안천 부근."
+                },
+                {
+                    "src": "images/접시꽃(Althaea rosea)2.jpg",
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "식물.꽃잎은 5개 연한 빨강색이다.꽃술이 길고 알갱이에 덮혀있다.줄기와 잎 뒷면에 털이 있고 잎은 5,7갈래로 갈라져 난다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "잎의 형태와 꽃잎의 색,꽃술의 형태가 접시꽃과 매우 유사하다."
+        }
+    ]
+}

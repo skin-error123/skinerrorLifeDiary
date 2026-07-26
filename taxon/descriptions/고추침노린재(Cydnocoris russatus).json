@@ -1,0 +1,36 @@
+{
+    "sections": [
+        {
+            "type": "image-group",
+            "images": [
+                {
+                    "src": "images/고추침노린재(Cydnocoris russatus).jpg",
+                    "caption": "2026-06-13 오후 4:51~4:52 충청북도 괴신군."
+                },
+                {
+                    "src": "images/고추침노린재(Cydnocoris russatus)1.jpg",
+                    "caption": ""
+                },
+                {
+                    "src": "images/고추침노린재(Cydnocoris russatus)2.jpg",
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "침노린재.전체적으로 빨간색이고 대부분 털이 나있다.뒷면은 검다.주둥이는 털이없고 끝에가 검다.다리의 기절은 빨갛고 나머지는 검다.배에는 빨간 줄무늬가 있다.막질부는 갈색이다.두 눈 사이에 검은 가로홈이 있다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,풀이 있는 곳"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "색과 전체적인 형태,검은 가로홈이 고추침노린재와 매우 유사하다."
+        }
+    ]
+}

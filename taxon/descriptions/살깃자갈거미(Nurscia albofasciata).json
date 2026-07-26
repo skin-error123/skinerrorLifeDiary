@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/살깃자갈거미(Nurscia albofasciata).jpg",
+            "caption": "2026-06-05 오후 3:28 충청남도 천안시 현대향촌아파트."
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "거미.전체적으로 검은색이고 양쪽에 하얀 양옆으로 긴 점무늬가 있고 5층으로 돼있다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,도시"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "배의 무늬가 살깃자갈거미와 매우 유사하다."
+        }
+    ]
+}

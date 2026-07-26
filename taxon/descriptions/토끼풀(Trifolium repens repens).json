@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/토끼풀(Trifolium repens repens).jpg",
+            "caption": "2026-06-13 오전 11:31 충청북도 괴산군."
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "식물.꽃잎이 하얗고 꽃이 한 부분에서 여러개가 난다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,흙이 있는 곳"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "꽃이 나는 형태가 토끼풀과 매우 유사하고 Trifolium repens repens은 다른 아종 중에서도 대한민국에도 서식해 Trifolium repens repens이다."
+        }
+    ]
+}

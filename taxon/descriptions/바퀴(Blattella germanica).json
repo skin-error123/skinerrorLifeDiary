@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/바퀴(Blattella germanica).jpg",
+            "caption": "2026-06-13 오후 5:05 충청북도 괴산군."
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "바퀴벌레.전체적으로 갈색이다.전흉배판에 검은 세로줄이 2개 있다.종아리마디에는 가시가 있다.산바퀴와 유사한 생김새다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,집"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "산바퀴와 유사한 형태를 띄고 있지만 집에 있다는 점이 바퀴와 매우 유사하다."
+        }
+    ]
+}

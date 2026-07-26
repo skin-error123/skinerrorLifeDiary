@@ -1,0 +1,32 @@
+{
+    "sections": [
+        {
+            "type": "image-group",
+            "images": [
+                {
+                    "src": "images/털보깡충거미(Carrhotus xanthogramma)1.jpg",
+                    "caption": "2026-06-21 오후 12:52 ~ 12:53 충청남도 천안시."
+                },
+                {
+                    "src": "images/털보깡충거미(Carrhotus xanthogramma)2.jpg",
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "깡충거미.몸 아랫면은 흰색이고 다리는 갈색,배에는 가운데 검은 세로줄무늬가 있고 그 무늬 양옆으로 뻗어 나오는 듯한 하얀 가로줄무늬와 갈색,하양 체크무늬가 있다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "배의 무늬의 형태가 털보깡충거미와 유사하다."
+        }
+    ]
+}

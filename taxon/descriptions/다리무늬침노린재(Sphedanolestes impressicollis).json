@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/다리무늬침노린재(Sphedanolestes impressicollis).jpg",
+            "caption": "2026-06-13 오후 4:55 충청북도 괴산군."
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "침노린재.전체적으로 검다.머리와 더듬이가 길다.다리와 결합판에는 흰 줄무늬가 있다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,풀이 많은 곳"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "색과 다리의 줄무늬,전체적인 형태가 다리무늬침노린재와 매우 유사하다."
+        }
+    ]
+}

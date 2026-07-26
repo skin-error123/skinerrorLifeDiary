@@ -1,0 +1,32 @@
+{
+    "sections": [
+        {
+            "type": "image-group",
+            "images": [
+                {
+                    "src": "images/집비둘기(Columba livia domestica)1.jpg",
+                    "caption": "2026-5-23 오후 2:57 충청남도 천안시 천안천."
+                },
+                {
+                    "src": "images/집비둘기(Columba livia domestica)2.jpg",
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "바위비둘기와 비슷하다.색구조가 다양하다.몸은 회색,짙은 회색.목은 초록,보라색이 있다.다리는 붉은 계열,눈은 주황색이다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,도시"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "바위비둘기와 비슷하지만 다르고 형태가 다양해서 집비둘기와 유사한 특성을 가졌다."
+        }
+    ]
+}

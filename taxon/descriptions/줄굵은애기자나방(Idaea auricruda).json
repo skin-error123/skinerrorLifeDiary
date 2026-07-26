@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/줄굵은애기자나방(Idaea auricruda).jpg",
+            "caption": "2026-06-13 오후 3:54 충청북도 괴산군."
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "자나방.약간 누런색이다 줄무늬는 두껍고 검다.날개 끝쪽에는 털이 나있다.몸에는 흰 줄이 있다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,풀이 많은 곳"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "날개에 굵은 검은 줄무늬가 줄굵은애기자나방의 날개 줄무늬와 매우 유사하다."
+        }
+    ]
+}
