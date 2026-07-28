@@ -436,5 +436,11 @@ const taxa = [
     { id: "국화족(Astereae)", parents: ["국화아과(Asteroideae)"] },
     { id: "Conyzinae", parents: ["국화족(Astereae)"] },
     { id: "개망초속(Erigeron)", parents: ["Conyzinae"] },
-    { id: "개망초(Erigeron annuus)", parents: ["개망초속(Erigeron)"] }
+    { id: "개망초(Erigeron annuus)", parents: ["개망초속(Erigeron)"] },
+    { id: "석죽강(Caryophyllales)", parents: ["진정쌍떡잎식물(Eudicots)"] },
+    { id: "마디풀과(Polygonaceae)", parents: ["석죽강(Caryophyllales)"] },
+    { id: "마디풀아과(Polygonoideae)", parents: ["마디풀과(Polygonaceae)"] },
+    { id: "여뀌족(Persicarieae)", parents: ["마디풀아과(Polygonoideae)"] },
+    { id: "여뀌속(Persicaria)", parents: ["여뀌족(Persicarieae)"] },
+    { id: "기생여뀌(Persicaria viscosa)", parents: ["여뀌속(Persicaria)"] }
 ];
