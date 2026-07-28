@@ -442,5 +442,12 @@ const taxa = [
     { id: "마디풀아과(Polygonoideae)", parents: ["마디풀과(Polygonaceae)"] },
     { id: "여뀌족(Persicarieae)", parents: ["마디풀아과(Polygonoideae)"] },
     { id: "여뀌속(Persicaria)", parents: ["여뀌족(Persicarieae)"] },
-    { id: "기생여뀌(Persicaria viscosa)", parents: ["여뀌속(Persicaria)"] }
+    { id: "기생여뀌(Persicaria viscosa)", parents: ["여뀌속(Persicaria)"] },
+    { id: "붉은토끼풀종(Trifolium pratense", parents: ["토끼풀속(Trifolium)"] },
+    { id: "붉은토끼풀(Trifolium pratense pratense", parents: ["붉은토끼풀종(Trifolium pratense"] },
+    { id: "Carduoideae", parents: ["국화과(Asteraceae)"] },
+    { id: "Cardueae", parents: ["Carduoideae"] },
+    { id: "수레국화아족(Centaureinae)", parents: ["Cardueae"] },
+    { id: "수레국화속(Centaurea)", parents: ["수레국화아족(Centaureinae)"] },
+    { id: "수레국화(Centaurea cyanus)", parents: ["수레국화속(Centaurea)"] }
 ];

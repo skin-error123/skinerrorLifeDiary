@@ -1,0 +1,32 @@
+{
+    "sections": [
+        {
+            "type": "image-group",
+            "images": [
+                {
+                    "src": "images/붉은토끼풀(Trifolium pratense pratense)1.jpg",
+                    "caption": "2026-06-21 오전 10:00 ~ 10:01 충청남도 천안시 천안천."
+                },
+                {
+                    "src": "images/붉은토끼풀(Trifolium pratense pratense)2.jpg",
+                    "caption": ""
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "토끼풀.꽃잎이 끝으로 갈수록 붉어진다.반대는 하얗게 된다.잎 뒷면과 줄기에는 털이 있다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "꽃잎의 색이 붉고 꽃의 위치가 토끼풀과 유사하고 잎과 줄기에 털이 있고 대한민국에도 있다는 점이 붉은토끼풀과 매우 유사하다."
+        }
+    ]
+}

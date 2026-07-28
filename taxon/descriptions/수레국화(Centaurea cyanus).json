@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/수레국화(Centaurea cyanus).jpg",
+            "caption": "2026-06-21 오전 9:22 충청남도 천안시."
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "속씨식물.꽃이 파랗고 꽃잎은 3갈래로 갈라진 모양이다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국"
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "꽃의 색과 꽃잎의 모양이 수레국화와 매우 유사하다."
+        }
+    ]
+}
