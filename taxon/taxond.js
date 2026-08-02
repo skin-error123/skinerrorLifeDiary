@@ -449,5 +449,20 @@ const taxa = [
     { id: "Cardueae", parents: ["Carduoideae"] },
     { id: "수레국화아족(Centaureinae)", parents: ["Cardueae"] },
     { id: "수레국화속(Centaurea)", parents: ["수레국화아족(Centaureinae)"] },
-    { id: "수레국화(Centaurea cyanus)", parents: ["수레국화속(Centaurea)"] }
+    { id: "수레국화(Centaurea cyanus)", parents: ["수레국화속(Centaurea)"] },
+    { id: "Neuropteroidea", parents: ["Aparaglossata"] },
+    { id: "Coleopterida", parents: ["Neuropteroidea"] },
+    { id: "딱정벌레목(Coleoptera)", parents: ["Coleopterida"] },
+    { id: "풍뎅이아목(Polyphaga)", parents: ["딱정벌레목(Coleoptera)"] },
+    { id: "풍뎅이하목(Scarabaeiformia)", parents: ["풍뎅이아목(Polyphaga)"] },
+    { id: "풍뎅이상과(Scarabaeoidea)", parents: ["풍뎅이하목(Scarabaeiformia)"] },
+    { id: "풍뎅이과(Scarabaeidae)", parents: ["풍뎅이상과(Scarabaeoidea)"] },
+    { id: "풍뎅이아과(Rutelinae)", parents: ["풍뎅이과(Scarabaeidae)"] },
+    { id: "참풍뎅이족(Anomalini)", parents: ["풍뎅이아과(Rutelinae)"] },
+    { id: "줄풍뎅이아족(Anomalina)", parents: ["참풍뎅이족(Anomalini)"] },
+    { id: "연노랑풍뎅이속(Blitopertha)", parents: ["줄풍뎅이아족(Anomalina)"] },
+    { id: "등얼룩풍뎅이(Blitopertha orientalis)", parents: ["연노랑풍뎅이속(Blitopertha)"] },
+    { id: "Dendryphantini", parents: ["Salticoida"] },
+    { id: "살깃깡충거미속(Mendoza)", parents: ["Dendryphantini"] },
+    { id: "수검은깡충거미(Mendoza canestrinii)", parents: ["살깃깡충거미속(Mendoza)"] }
 ];
