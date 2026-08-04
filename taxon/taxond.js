@@ -464,5 +464,21 @@ const taxa = [
     { id: "등얼룩풍뎅이(Blitopertha orientalis)", parents: ["연노랑풍뎅이속(Blitopertha)"] },
     { id: "Dendryphantini", parents: ["Salticoida"] },
     { id: "살깃깡충거미속(Mendoza)", parents: ["Dendryphantini"] },
-    { id: "수검은깡충거미(Mendoza canestrinii)", parents: ["살깃깡충거미속(Mendoza)"] }
+    { id: "수검은깡충거미(Mendoza canestrinii)", parents: ["살깃깡충거미속(Mendoza)"] },
+    { id: "Acridomorpha", parents: ["메뚜기하목(Acrididea)"] },
+    { id: "메뚜기상과(Acridoidea)", parents: ["Acridomorpha"] },
+    { id: "메뚜기과(Acrididae)", parents: ["메뚜기상과(Acridoidea)"] },
+    { id: "등검은메뚜기아과(Eyprepocnemidinae)", parents: ["메뚜기과(Acrididae)"] },
+    { id: "등검은메뚜기족(Eyprepocnemidini)", parents: ["등검은메뚜기아과(Eyprepocnemidinae)"] },
+    { id: "등검은메뚜기속(Shirakiacris)", parents: ["등검은메뚜기족(Eyprepocnemidini)"] },
+    { id: "등검은메뚜기(Shirakiacris shirakii)", parents: ["등검은메뚜기속(Shirakiacris)"] },
+    { id: "Pangalloanserae", parents: ["신악하강(Neognathae)"] },
+    { id: "Odontoanserae", parents: ["Pangalloanserae"] },
+    { id: "기러기목(Anseriformes)", parents: ["Odontoanserae"] },
+    { id: "기러기아목(Anseres)", parents: ["기러기목(Anseriformes)"] },
+    { id: "오리상과(Anatoidea)", parents: ["Anseres"] },
+    { id: "오리과(Anatidae)", parents: ["오리상과(Anatoidea)"] },
+    { id: "오리아과(Anatinae)", parents: ["오리과(Anatidae)"] },
+    { id: "오리속(Anas)", parents: ["오리아과(Anatinae)"] },
+    { id: "흰뺨검둥오리(Anas zonorhyncha)", parents: ["오리속(Anas)"] }
 ];
