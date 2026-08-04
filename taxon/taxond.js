@@ -476,7 +476,7 @@ const taxa = [
     { id: "Odontoanserae", parents: ["Pangalloanserae"] },
     { id: "기러기목(Anseriformes)", parents: ["Odontoanserae"] },
     { id: "기러기아목(Anseres)", parents: ["기러기목(Anseriformes)"] },
-    { id: "오리상과(Anatoidea)", parents: ["Anseres"] },
+    { id: "오리상과(Anatoidea)", parents: ["기러기아목(Anseres)"] },
     { id: "오리과(Anatidae)", parents: ["오리상과(Anatoidea)"] },
     { id: "오리아과(Anatinae)", parents: ["오리과(Anatidae)"] },
     { id: "오리속(Anas)", parents: ["오리아과(Anatinae)"] },
