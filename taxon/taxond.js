@@ -480,5 +480,11 @@ const taxa = [
     { id: "오리과(Anatidae)", parents: ["오리상과(Anatoidea)"] },
     { id: "오리아과(Anatinae)", parents: ["오리과(Anatidae)"] },
     { id: "오리속(Anas)", parents: ["오리아과(Anatinae)"] },
-    { id: "흰뺨검둥오리(Anas zonorhyncha)", parents: ["오리속(Anas)"] }
+    { id: "흰뺨검둥오리(Anas zonorhyncha)", parents: ["오리속(Anas)"] },
+    { id: "잎벌아목(Symphyta)", parents: ["벌목(Hymenoptera)"] },
+    { id: "잎벌상과(Tenthredinoidea)", parents: ["잎벌아목(Symphyta)"] },
+    { id: "잎벌과(Tenthredinidae)", parents: ["잎벌상과(Tenthredinoidea)"] },
+    { id: "수염잎벌아과(Nematinae)", parents: ["잎벌과(Tenthredinidae)"] },
+    { id: "수염잎벌속(Nematus)", parents: ["수염잎벌아과(Nematinae)"] },
+    { id: "아까시잎벌(Nematus tibialis)", parents: ["수염잎벌속(Nematus)"] }
 ];
