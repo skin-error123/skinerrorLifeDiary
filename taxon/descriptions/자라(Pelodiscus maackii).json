@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/자라(Pelodiscus maackii).jpg",
+            "caption": "2026-06-21 오전 10:13 충청남도 천안시."
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "자라,전체적으로 검은색이고 목과 앞다리에 누런 점무늬가 있다.등에는 하얀 점들이 가득하다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,강."
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "전체적인 형태가 자라와 매우 유사하고 목과 앞다리에 누런 점무늬가 있는 점이 자라와 매우 유사하다."
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/불개미거미(Myrmarachne japonica).jpg",
+            "caption": "2026-06-21 오전 9:29 충청남도 천안시."
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "개미거미.전체적으로 검은색이다.위턱은 시작되는 부분이 갈색이다.배에는 황색의 띠무늬가 있다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국,육지."
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "몸의 전체적인 색과 배의 띠무늬가 있는 점이 불개미거미하고 매우 유사하다."
+        }
+    ]
+}

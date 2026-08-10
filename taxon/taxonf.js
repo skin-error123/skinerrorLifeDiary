@@ -45,7 +45,7 @@ const cy = cytoscape({
     layout: {
         name: "breadthfirst",
         directed: true,
-        roots: ["LUCA"],     // LUCA id
+        roots: ["LUCA"],
         spacingFactor: 1.5,
         transform: (node, pos) => ({ x: pos.x, y: -pos.y })  // 위아래 뒤집기
     }

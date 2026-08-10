@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "type": "image",
+            "src": "images/딱새(Phoenicurus auroreus auroreus).jpg",
+            "caption": "2026-06-21 오후 1:06 충청남도 천안시."
+        },
+        {
+            "type": "text",
+            "title": "모습",
+            "content": "새.머리는 연한 갈색,날개는 갈색이고 하얀 깃도 있다.꼬리는 주황색이다."
+        },
+        {
+            "type": "text",
+            "title": "서식지",
+            "content": "대한민국."
+        },
+        {
+            "type": "text",
+            "title": "동정",
+            "content": "색의 배치가 딱새와 매우 유사하다."
+        }
+    ]
+}
